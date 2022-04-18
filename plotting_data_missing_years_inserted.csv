@@ -1,0 +1,440 @@
+,year,newspaper,paper,context,n
+1,2001,The Daily Mail,dailymail,text,131
+2,2001,The Daily Mail,dailymail,headline,3
+3,2001,The Mail on Sunday,sundaymail,text,48
+4,2001,The Mail on Sunday,sundaymail,headline,4
+5,2001,The Sunday Mirror,sundaymirror,text,47
+6,2001,The Sunday Mirror,sundaymirror,headline,6
+7,2001,The Sunday Times,sundaytimes,text,97
+8,2001,The Sunday Times,sundaytimes,headline,2
+9,2001,The Daily Mirror,dailymirror,text,244
+10,2001,The Daily Mirror,dailymirror,headline,19
+11,2001,The Daily Telegraph,dailytelegraph,text,146
+12,2001,The Daily Telegraph,dailytelegraph,headline,10
+13,2001,The Guardian,guardian,text,338
+14,2001,The Guardian,guardian,headline,8
+15,2001,The Observer,observer,text,80
+16,2001,The Observer,observer,headline,2
+17,2001,The Sun,sun,text,176
+18,2001,The Sun,sun,headline,6
+19,2001,The Sunday Telegraph,sundaytelegraph,text,39
+20,2001,The Sunday Telegraph,sundaytelegraph,headline,3
+21,2001,The Times,times,text,271
+22,2001,The Times,times,headline,16
+23,2002,The Daily Mail,dailymail,text,152
+24,2002,The Daily Mail,dailymail,headline,8
+25,2002,The Mail on Sunday,sundaymail,text,44
+26,2002,The Mail on Sunday,sundaymail,headline,4
+27,2002,The Sunday Mirror,sundaymirror,text,58
+28,2002,The Sunday Mirror,sundaymirror,headline,1
+29,2002,The Sunday Times,sundaytimes,text,115
+30,2002,The Sunday Times,sundaytimes,headline,4
+31,2002,The Daily Mirror,dailymirror,text,262
+32,2002,The Daily Mirror,dailymirror,headline,34
+33,2002,The Daily Telegraph,dailytelegraph,text,184
+34,2002,The Daily Telegraph,dailytelegraph,headline,14
+35,2002,The Guardian,guardian,text,372
+36,2002,The Guardian,guardian,headline,13
+37,2002,The Observer,observer,text,104
+38,2002,The Observer,observer,headline,4
+39,2002,The Sun,sun,text,191
+40,2002,The Sun,sun,headline,4
+41,2002,The Sunday Telegraph,sundaytelegraph,text,39
+42,2002,The Sunday Telegraph,sundaytelegraph,headline,2
+43,2002,The Times,times,text,310
+44,2002,The Times,times,headline,20
+45,2003,The Daily Mail,dailymail,text,152
+46,2003,The Daily Mail,dailymail,headline,7
+47,2003,The Mail on Sunday,sundaymail,text,37
+48,2003,The Mail on Sunday,sundaymail,headline,3
+49,2003,The Sunday Mirror,sundaymirror,text,50
+50,2003,The Sunday Mirror,sundaymirror,headline,7
+51,2003,The Sunday Times,sundaytimes,text,119
+52,2003,The Sunday Times,sundaytimes,headline,2
+53,2003,The Daily Mirror,dailymirror,text,293
+54,2003,The Daily Mirror,dailymirror,headline,27
+55,2003,The Daily Telegraph,dailytelegraph,text,143
+56,2003,The Daily Telegraph,dailytelegraph,headline,10
+57,2003,The Guardian,guardian,text,408
+58,2003,The Guardian,guardian,headline,5
+59,2003,The Observer,observer,text,90
+60,2003,The Observer,observer,headline,1
+61,2003,The Sun,sun,text,221
+62,2003,The Sun,sun,headline,19
+63,2003,The Sunday Telegraph,sundaytelegraph,text,46
+64,2003,The Sunday Telegraph,sundaytelegraph,headline,2
+65,2003,The Times,times,text,419
+66,2003,The Times,times,headline,18
+67,2004,The Daily Mail,dailymail,text,187
+68,2004,The Daily Mail,dailymail,headline,11
+69,2004,The Mail on Sunday,sundaymail,text,49
+70,2004,The Mail on Sunday,sundaymail,headline,3
+71,2004,The Sunday Mirror,sundaymirror,text,62
+72,2004,The Sunday Mirror,sundaymirror,headline,4
+73,2004,The Sunday Times,sundaytimes,text,138
+74,2004,The Sunday Times,sundaytimes,headline,6
+75,2004,The Daily Mirror,dailymirror,text,245
+76,2004,The Daily Mirror,dailymirror,headline,22
+77,2004,The Daily Telegraph,dailytelegraph,text,168
+78,2004,The Daily Telegraph,dailytelegraph,headline,17
+79,2004,The Guardian,guardian,text,417
+80,2004,The Guardian,guardian,headline,11
+81,2004,The Observer,observer,text,91
+82,2004,The Observer,observer,headline,4
+83,2004,The Sun,sun,text,213
+84,2004,The Sun,sun,headline,11
+85,2004,The Sunday Telegraph,sundaytelegraph,text,40
+86,2004,The Sunday Telegraph,sundaytelegraph,headline,1
+87,2004,The Times,times,text,414
+88,2004,The Times,times,headline,18
+89,2005,The Daily Mail,dailymail,text,176
+90,2005,The Daily Mail,dailymail,headline,12
+91,2005,The Mail on Sunday,sundaymail,text,33
+92,2005,The Mail on Sunday,sundaymail,headline,4
+93,2005,The Sunday Mirror,sundaymirror,text,46
+94,2005,The Sunday Mirror,sundaymirror,headline,3
+95,2005,The Sunday Times,sundaytimes,text,154
+96,2005,The Sunday Times,sundaytimes,headline,2
+97,2005,The Daily Mirror,dailymirror,text,286
+98,2005,The Daily Mirror,dailymirror,headline,29
+99,2005,The Daily Telegraph,dailytelegraph,text,219
+100,2005,The Daily Telegraph,dailytelegraph,headline,14
+101,2005,The Guardian,guardian,text,456
+102,2005,The Guardian,guardian,headline,6
+99999,2005,The Observer,observer,headline,0
+103,2005,The Observer,observer,text,107
+104,2005,The Sun,sun,text,272
+105,2005,The Sun,sun,headline,13
+106,2005,The Sunday Telegraph,sundaytelegraph,text,43
+107,2005,The Sunday Telegraph,sundaytelegraph,headline,3
+108,2005,The Times,times,text,444
+109,2005,The Times,times,headline,35
+110,2006,The Daily Mail,dailymail,text,226
+111,2006,The Daily Mail,dailymail,headline,14
+112,2006,The Mail on Sunday,sundaymail,text,51
+113,2006,The Mail on Sunday,sundaymail,headline,3
+114,2006,The Sunday Mirror,sundaymirror,text,51
+115,2006,The Sunday Mirror,sundaymirror,headline,7
+116,2006,The Sunday Times,sundaytimes,text,164
+117,2006,The Sunday Times,sundaytimes,headline,6
+118,2006,The Daily Mirror,dailymirror,text,269
+119,2006,The Daily Mirror,dailymirror,headline,21
+120,2006,The Daily Telegraph,dailytelegraph,text,175
+121,2006,The Daily Telegraph,dailytelegraph,headline,16
+122,2006,The Guardian,guardian,text,368
+123,2006,The Guardian,guardian,headline,4
+124,2006,The Observer,observer,text,109
+125,2006,The Observer,observer,headline,1
+126,2006,The Sun,sun,text,292
+127,2006,The Sun,sun,headline,10
+99999,2006,The Sunday Telegraph,sundaytelegraph,headline,0
+128,2006,The Sunday Telegraph,sundaytelegraph,text,45
+129,2006,The Times,times,text,401
+130,2006,The Times,times,headline,17
+131,2007,The Daily Mail,dailymail,text,301
+132,2007,The Daily Mail,dailymail,headline,16
+133,2007,The Mail on Sunday,sundaymail,text,36
+134,2007,The Mail on Sunday,sundaymail,headline,5
+135,2007,The Sunday Mirror,sundaymirror,text,59
+136,2007,The Sunday Mirror,sundaymirror,headline,4
+137,2007,The Sunday Times,sundaytimes,text,165
+138,2007,The Sunday Times,sundaytimes,headline,9
+139,2007,The Daily Mirror,dailymirror,text,278
+140,2007,The Daily Mirror,dailymirror,headline,31
+141,2007,The Daily Telegraph,dailytelegraph,text,146
+142,2007,The Daily Telegraph,dailytelegraph,headline,6
+143,2007,The Guardian,guardian,text,361
+144,2007,The Guardian,guardian,headline,2
+99999,2007,The Observer,observer,headline,0
+145,2007,The Observer,observer,text,99
+146,2007,The Sun,sun,text,291
+147,2007,The Sun,sun,headline,14
+148,2007,The Sunday Telegraph,sundaytelegraph,text,66
+149,2007,The Sunday Telegraph,sundaytelegraph,headline,4
+150,2007,The Times,times,text,394
+151,2007,The Times,times,headline,21
+152,2008,The Daily Mail,dailymail,text,301
+153,2008,The Daily Mail,dailymail,headline,10
+154,2008,The Mail on Sunday,sundaymail,text,54
+155,2008,The Mail on Sunday,sundaymail,headline,3
+156,2008,The Sunday Mirror,sundaymirror,text,55
+157,2008,The Sunday Mirror,sundaymirror,headline,4
+158,2008,The Sunday Times,sundaytimes,text,145
+159,2008,The Sunday Times,sundaytimes,headline,2
+160,2008,The Daily Mirror,dailymirror,text,249
+161,2008,The Daily Mirror,dailymirror,headline,26
+162,2008,The Daily Telegraph,dailytelegraph,text,127
+163,2008,The Daily Telegraph,dailytelegraph,headline,12
+164,2008,The Guardian,guardian,text,394
+165,2008,The Guardian,guardian,headline,3
+166,2008,The Observer,observer,text,126
+167,2008,The Observer,observer,headline,1
+168,2008,The Sun,sun,text,384
+169,2008,The Sun,sun,headline,22
+170,2008,The Sunday Telegraph,sundaytelegraph,text,48
+171,2008,The Sunday Telegraph,sundaytelegraph,headline,1
+172,2008,The Times,times,text,382
+173,2008,The Times,times,headline,10
+174,2009,The Daily Mail,dailymail,text,403
+175,2009,The Daily Mail,dailymail,headline,14
+176,2009,The Mail on Sunday,sundaymail,text,48
+177,2009,The Mail on Sunday,sundaymail,headline,2
+178,2009,The Sunday Mirror,sundaymirror,text,53
+179,2009,The Sunday Mirror,sundaymirror,headline,2
+180,2009,The Sunday Times,sundaytimes,text,201
+181,2009,The Sunday Times,sundaytimes,headline,6
+182,2009,The Daily Mirror,dailymirror,text,296
+183,2009,The Daily Mirror,dailymirror,headline,34
+184,2009,The Daily Telegraph,dailytelegraph,text,149
+185,2009,The Daily Telegraph,dailytelegraph,headline,5
+186,2009,The Guardian,guardian,text,385
+187,2009,The Guardian,guardian,headline,1
+99999,2009,The Observer,observer,headline,0
+188,2009,The Observer,observer,text,107
+189,2009,The Sun,sun,text,414
+190,2009,The Sun,sun,headline,31
+191,2009,The Sunday Telegraph,sundaytelegraph,text,37
+192,2009,The Sunday Telegraph,sundaytelegraph,headline,2
+193,2009,The Times,times,text,405
+194,2009,The Times,times,headline,20
+195,2010,The Daily Mail,dailymail,text,432
+196,2010,The Daily Mail,dailymail,headline,8
+197,2010,The Mail on Sunday,sundaymail,text,44
+198,2010,The Mail on Sunday,sundaymail,headline,2
+199,2010,The Sunday Mirror,sundaymirror,text,60
+200,2010,The Sunday Mirror,sundaymirror,headline,7
+201,2010,The Sunday Times,sundaytimes,text,193
+202,2010,The Sunday Times,sundaytimes,headline,2
+203,2010,The Daily Mirror,dailymirror,text,302
+204,2010,The Daily Mirror,dailymirror,headline,21
+205,2010,The Daily Telegraph,dailytelegraph,text,251
+206,2010,The Daily Telegraph,dailytelegraph,headline,9
+207,2010,The Guardian,guardian,text,394
+208,2010,The Guardian,guardian,headline,11
+209,2010,The Observer,observer,text,109
+210,2010,The Observer,observer,headline,2
+211,2010,The Sun,sun,text,421
+212,2010,The Sun,sun,headline,27
+213,2010,The Sunday Telegraph,sundaytelegraph,text,73
+214,2010,The Sunday Telegraph,sundaytelegraph,headline,1
+215,2010,The Times,times,text,394
+216,2010,The Times,times,headline,15
+217,2011,The Daily Mail,dailymail,text,428
+218,2011,The Daily Mail,dailymail,headline,11
+99999,2011,The Mail on Sunday,sundaymail,headline,0
+219,2011,The Mail on Sunday,sundaymail,text,59
+220,2011,The Sunday Mirror,sundaymirror,text,68
+221,2011,The Sunday Mirror,sundaymirror,headline,4
+222,2011,The Sunday Times,sundaytimes,text,184
+223,2011,The Sunday Times,sundaytimes,headline,4
+224,2011,The Daily Mirror,dailymirror,text,330
+225,2011,The Daily Mirror,dailymirror,headline,28
+226,2011,The Daily Telegraph,dailytelegraph,text,259
+227,2011,The Daily Telegraph,dailytelegraph,headline,14
+228,2011,The Guardian,guardian,text,399
+229,2011,The Guardian,guardian,headline,10
+230,2011,The Observer,observer,text,100
+231,2011,The Observer,observer,headline,1
+232,2011,The Sun,sun,text,412
+233,2011,The Sun,sun,headline,28
+234,2011,The Sunday Telegraph,sundaytelegraph,text,55
+235,2011,The Sunday Telegraph,sundaytelegraph,headline,2
+236,2011,The Times,times,text,383
+237,2011,The Times,times,headline,19
+238,2012,The Daily Mail,dailymail,text,402
+239,2012,The Daily Mail,dailymail,headline,20
+240,2012,The Mail on Sunday,sundaymail,text,59
+241,2012,The Mail on Sunday,sundaymail,headline,2
+242,2012,The Sunday Mirror,sundaymirror,text,63
+243,2012,The Sunday Mirror,sundaymirror,headline,4
+244,2012,The Sunday Times,sundaytimes,text,184
+245,2012,The Sunday Times,sundaytimes,headline,6
+246,2012,The Daily Mirror,dailymirror,text,312
+247,2012,The Daily Mirror,dailymirror,headline,28
+248,2012,The Daily Telegraph,dailytelegraph,text,256
+249,2012,The Daily Telegraph,dailytelegraph,headline,20
+250,2012,The Guardian,guardian,text,393
+251,2012,The Guardian,guardian,headline,10
+252,2012,The Observer,observer,text,75
+253,2012,The Observer,observer,headline,1
+254,2012,The Sun,sun,text,481
+255,2012,The Sun,sun,headline,33
+99999,2012,The Sunday Telegraph,sundaytelegraph,headline,0
+256,2012,The Sunday Telegraph,sundaytelegraph,text,56
+257,2012,The Times,times,text,305
+258,2012,The Times,times,headline,16
+259,2013,The Daily Mail,dailymail,text,433
+260,2013,The Daily Mail,dailymail,headline,30
+261,2013,The Mail on Sunday,sundaymail,text,53
+262,2013,The Mail on Sunday,sundaymail,headline,3
+263,2013,The Sunday Mirror,sundaymirror,text,63
+264,2013,The Sunday Mirror,sundaymirror,headline,9
+265,2013,The Sunday Times,sundaytimes,text,162
+266,2013,The Sunday Times,sundaytimes,headline,6
+267,2013,The Daily Mirror,dailymirror,text,357
+268,2013,The Daily Mirror,dailymirror,headline,36
+269,2013,The Daily Telegraph,dailytelegraph,text,266
+270,2013,The Daily Telegraph,dailytelegraph,headline,9
+271,2013,The Guardian,guardian,text,360
+272,2013,The Guardian,guardian,headline,7
+99999,2013,The Observer,observer,headline,0
+273,2013,The Observer,observer,text,89
+274,2013,The Sun,sun,text,548
+275,2013,The Sun,sun,headline,35
+276,2013,The Sunday Telegraph,sundaytelegraph,text,60
+277,2013,The Sunday Telegraph,sundaytelegraph,headline,2
+278,2013,The Times,times,text,328
+279,2013,The Times,times,headline,21
+280,2014,The Daily Mail,dailymail,text,471
+281,2014,The Daily Mail,dailymail,headline,46
+282,2014,The Mail on Sunday,sundaymail,text,52
+283,2014,The Mail on Sunday,sundaymail,headline,3
+284,2014,The Sunday Mirror,sundaymirror,text,85
+285,2014,The Sunday Mirror,sundaymirror,headline,12
+286,2014,The Sunday Times,sundaytimes,text,225
+287,2014,The Sunday Times,sundaytimes,headline,12
+288,2014,The Daily Mirror,dailymirror,text,357
+289,2014,The Daily Mirror,dailymirror,headline,62
+290,2014,The Daily Telegraph,dailytelegraph,text,201
+291,2014,The Daily Telegraph,dailytelegraph,headline,17
+292,2014,The Guardian,guardian,text,367
+293,2014,The Guardian,guardian,headline,7
+99999,2014,The Observer,observer,headline,0
+294,2014,The Observer,observer,text,81
+295,2014,The Sun,sun,text,563
+296,2014,The Sun,sun,headline,43
+297,2014,The Sunday Telegraph,sundaytelegraph,text,51
+298,2014,The Sunday Telegraph,sundaytelegraph,headline,2
+299,2014,The Times,times,text,269
+300,2014,The Times,times,headline,24
+301,2015,The Daily Mail,dailymail,text,585
+302,2015,The Daily Mail,dailymail,headline,74
+303,2015,The Mail on Sunday,sundaymail,text,53
+304,2015,The Mail on Sunday,sundaymail,headline,1
+305,2015,The Sunday Mirror,sundaymirror,text,92
+306,2015,The Sunday Mirror,sundaymirror,headline,14
+307,2015,The Sunday Times,sundaytimes,text,240
+308,2015,The Sunday Times,sundaytimes,headline,10
+309,2015,The Daily Mirror,dailymirror,text,459
+310,2015,The Daily Mirror,dailymirror,headline,93
+311,2015,The Daily Telegraph,dailytelegraph,text,228
+312,2015,The Daily Telegraph,dailytelegraph,headline,20
+313,2015,The Guardian,guardian,text,403
+314,2015,The Guardian,guardian,headline,17
+315,2015,The Observer,observer,text,110
+316,2015,The Observer,observer,headline,2
+317,2015,The Sun,sun,text,673
+318,2015,The Sun,sun,headline,48
+319,2015,The Sunday Telegraph,sundaytelegraph,text,44
+320,2015,The Sunday Telegraph,sundaytelegraph,headline,2
+321,2015,The Times,times,text,316
+322,2015,The Times,times,headline,22
+323,2016,The Daily Mail,dailymail,text,700
+324,2016,The Daily Mail,dailymail,headline,69
+325,2016,The Mail on Sunday,sundaymail,text,65
+326,2016,The Mail on Sunday,sundaymail,headline,1
+327,2016,The Sunday Mirror,sundaymirror,text,93
+328,2016,The Sunday Mirror,sundaymirror,headline,16
+329,2016,The Sunday Times,sundaytimes,text,284
+330,2016,The Sunday Times,sundaytimes,headline,17
+331,2016,The Daily Mirror,dailymirror,text,521
+332,2016,The Daily Mirror,dailymirror,headline,142
+333,2016,The Daily Telegraph,dailytelegraph,text,205
+334,2016,The Daily Telegraph,dailytelegraph,headline,18
+335,2016,The Guardian,guardian,text,323
+336,2016,The Guardian,guardian,headline,19
+337,2016,The Observer,observer,text,107
+338,2016,The Observer,observer,headline,7
+339,2016,The Sun,sun,text,700
+340,2016,The Sun,sun,headline,60
+341,2016,The Sunday Telegraph,sundaytelegraph,text,31
+342,2016,The Sunday Telegraph,sundaytelegraph,headline,1
+343,2016,The Times,times,text,378
+344,2016,The Times,times,headline,43
+345,2017,The Daily Mail,dailymail,text,652
+346,2017,The Daily Mail,dailymail,headline,72
+347,2017,The Mail on Sunday,sundaymail,text,54
+348,2017,The Mail on Sunday,sundaymail,headline,8
+349,2017,The Sunday Mirror,sundaymirror,text,90
+350,2017,The Sunday Mirror,sundaymirror,headline,19
+351,2017,The Sunday Times,sundaytimes,text,284
+352,2017,The Sunday Times,sundaytimes,headline,18
+353,2017,The Daily Mirror,dailymirror,text,577
+354,2017,The Daily Mirror,dailymirror,headline,158
+355,2017,The Daily Telegraph,dailytelegraph,text,233
+356,2017,The Daily Telegraph,dailytelegraph,headline,17
+357,2017,The Guardian,guardian,text,246
+358,2017,The Guardian,guardian,headline,16
+359,2017,The Observer,observer,text,91
+360,2017,The Observer,observer,headline,9
+361,2017,The Sun,sun,text,817
+362,2017,The Sun,sun,headline,60
+363,2017,The Sunday Telegraph,sundaytelegraph,text,46
+364,2017,The Sunday Telegraph,sundaytelegraph,headline,4
+365,2017,The Times,times,text,569
+366,2017,The Times,times,headline,78
+367,2018,The Daily Mail,dailymail,text,720
+368,2018,The Daily Mail,dailymail,headline,90
+369,2018,The Mail on Sunday,sundaymail,text,68
+370,2018,The Mail on Sunday,sundaymail,headline,11
+371,2018,The Sunday Mirror,sundaymirror,text,129
+372,2018,The Sunday Mirror,sundaymirror,headline,19
+373,2018,The Sunday Times,sundaytimes,text,348
+374,2018,The Sunday Times,sundaytimes,headline,16
+375,2018,The Daily Mirror,dailymirror,text,695
+376,2018,The Daily Mirror,dailymirror,headline,139
+377,2018,The Daily Telegraph,dailytelegraph,text,234
+378,2018,The Daily Telegraph,dailytelegraph,headline,36
+379,2018,The Guardian,guardian,text,437
+380,2018,The Guardian,guardian,headline,41
+381,2018,The Observer,observer,text,145
+382,2018,The Observer,observer,headline,11
+383,2018,The Sun,sun,text,949
+384,2018,The Sun,sun,headline,51
+385,2018,The Sunday Telegraph,sundaytelegraph,text,38
+386,2018,The Times,times,text,732
+387,2018,The Times,times,headline,127
+388,2019,The Daily Mail,dailymail,text,609
+389,2019,The Daily Mail,dailymail,headline,46
+390,2019,The Mail on Sunday,sundaymail,text,39
+391,2019,The Mail on Sunday,sundaymail,headline,7
+392,2019,The Sunday Mirror,sundaymirror,text,108
+393,2019,The Sunday Mirror,sundaymirror,headline,12
+394,2019,The Sunday Times,sundaytimes,text,276
+395,2019,The Sunday Times,sundaytimes,headline,22
+396,2019,The Daily Mirror,dailymirror,text,657
+397,2019,The Daily Mirror,dailymirror,headline,137
+398,2019,The Daily Telegraph,dailytelegraph,text,286
+399,2019,The Daily Telegraph,dailytelegraph,headline,28
+400,2019,The Guardian,guardian,text,461
+401,2019,The Guardian,guardian,headline,49
+402,2019,The Observer,observer,text,146
+403,2019,The Observer,observer,headline,6
+404,2019,The Sun,sun,text,712
+405,2019,The Sun,sun,headline,47
+406,2019,The Sunday Telegraph,sundaytelegraph,text,55
+407,2019,The Sunday Telegraph,sundaytelegraph,headline,3
+408,2019,The Times,times,text,588
+409,2019,The Times,times,headline,81
+410,2020,The Daily Mail,dailymail,text,535
+411,2020,The Daily Mail,dailymail,headline,34
+412,2020,The Mail on Sunday,sundaymail,text,45
+413,2020,The Mail on Sunday,sundaymail,headline,4
+414,2020,The Sunday Mirror,sundaymirror,text,111
+415,2020,The Sunday Mirror,sundaymirror,headline,9
+416,2020,The Sunday Times,sundaytimes,text,275
+417,2020,The Sunday Times,sundaytimes,headline,17
+418,2020,The Daily Mirror,dailymirror,text,467
+419,2020,The Daily Mirror,dailymirror,headline,112
+420,2020,The Daily Telegraph,dailytelegraph,text,243
+421,2020,The Daily Telegraph,dailytelegraph,headline,17
+422,2020,The Guardian,guardian,text,311
+423,2020,The Guardian,guardian,headline,17
+424,2020,The Observer,observer,text,98
+425,2020,The Observer,observer,headline,1
+426,2020,The Sun,sun,text,586
+427,2020,The Sun,sun,headline,39
+428,2020,The Sunday Telegraph,sundaytelegraph,text,57
+429,2020,The Sunday Telegraph,sundaytelegraph,headline,4
+430,2020,The Times,times,text,474
+431,2020,The Times,times,headline,26
